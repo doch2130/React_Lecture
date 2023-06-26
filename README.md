@@ -1,3 +1,1 @@
-# React_Lecture
-
-React 강의 실습 코드
+<h1> React 인터넷 강의 실습 코드 </h1>
